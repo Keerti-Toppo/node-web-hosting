@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "20.10.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerti-Toppo/node-web-hosting.git"
+  },
+  "author": "Keerti Toppo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerti-Toppo/node-web-hosting/issues"
+  },
+  "homepage": "https://github.com/Keerti-Toppo/node-web-hosting#readme"
+}
